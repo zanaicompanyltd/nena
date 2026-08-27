@@ -1,0 +1,4754 @@
+[
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "habari",
+    "display_text": "Habari",
+    "source_video": "S0001_Habari.mp4",
+    "sample_id": "S0001",
+    "frame_path": "data/frames/habari/habari_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "nzuri",
+    "display_text": "Nzuri",
+    "source_video": "S0002_Nzuri.mp4",
+    "sample_id": "S0002",
+    "frame_path": "data/frames/nzuri/nzuri_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "asante",
+    "display_text": "Asante",
+    "source_video": "S0003_Asante.mp4",
+    "sample_id": "S0003",
+    "frame_path": "data/frames/asante/asante_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mbaya",
+    "display_text": "Mbaya",
+    "source_video": "S0004_Mbaya.mp4",
+    "sample_id": "S0004",
+    "frame_path": "data/frames/mbaya/mbaya_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "maji",
+    "display_text": "Maji",
+    "source_video": "S0005_Maji.mp4",
+    "sample_id": "S0005",
+    "frame_path": "data/frames/maji/maji_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "tafadhali_au_samahani",
+    "display_text": "Tafadhali au samahani",
+    "source_video": "S0006_Tafadhali_au_Samahani.mp4",
+    "sample_id": "S0006",
+    "frame_path": "data/frames/tafadhali_au_samahani/tafadhali_au_samahani_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "chakula",
+    "display_text": "Chakula",
+    "source_video": "S0007_Chakula.mp4",
+    "sample_id": "S0007",
+    "frame_path": "data/frames/chakula/chakula_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "jina_langu",
+    "display_text": "Jina langu",
+    "source_video": "S0008_Jina_langu.mp4",
+    "sample_id": "S0008",
+    "frame_path": "data/frames/jina_langu/jina_langu_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "kwaheri",
+    "display_text": "Kwaheri",
+    "source_video": "S0009_Kwaheri.mp4",
+    "sample_id": "S0009",
+    "frame_path": "data/frames/kwaheri/kwaheri_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "kula",
+    "display_text": "Kula",
+    "source_video": "S0010_kula.mp4",
+    "sample_id": "S0010",
+    "frame_path": "data/frames/kula/kula_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "kunywa",
+    "display_text": "Kunywa",
+    "source_video": "S0011_kunywa.mp4",
+    "sample_id": "S0011",
+    "frame_path": "data/frames/kunywa/kunywa_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "kulala",
+    "display_text": "Kulala",
+    "source_video": "S0012_kulala.mp4",
+    "sample_id": "S0012",
+    "frame_path": "data/frames/kulala/kulala_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "kusoma",
+    "display_text": "Kusoma",
+    "source_video": "S0013_kusoma.mp4",
+    "sample_id": "S0013",
+    "frame_path": "data/frames/kusoma/kusoma_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "kuandika",
+    "display_text": "Kuandika",
+    "source_video": "S0014_kuandika.mp4",
+    "sample_id": "S0014",
+    "frame_path": "data/frames/kuandika/kuandika_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "kutembea",
+    "display_text": "Kutembea",
+    "source_video": "S0015_kutembea.mp4",
+    "sample_id": "S0015",
+    "frame_path": "data/frames/kutembea/kutembea_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "kukimbia",
+    "display_text": "Kukimbia",
+    "source_video": "S0016_kukimbia.mp4",
+    "sample_id": "S0016",
+    "frame_path": "data/frames/kukimbia/kukimbia_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mama",
+    "display_text": "Mama",
+    "source_video": "S0025_Mama.mp4",
+    "sample_id": "S0025",
+    "frame_path": "data/frames/mama/mama_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "baba",
+    "display_text": "Baba",
+    "source_video": "S0026_Baba.mp4",
+    "sample_id": "S0026",
+    "frame_path": "data/frames/baba/baba_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "familia",
+    "display_text": "Familia",
+    "source_video": "S0027_Familia.mp4",
+    "sample_id": "S0027",
+    "frame_path": "data/frames/familia/familia_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "vipi",
+    "display_text": "Vipi",
+    "source_video": "S0028_Vipi.mp4",
+    "sample_id": "S0028",
+    "frame_path": "data/frames/vipi/vipi_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "kwanini",
+    "display_text": "Kwanini",
+    "source_video": "S0029_Kwanini.mp4",
+    "sample_id": "S0029",
+    "frame_path": "data/frames/kwanini/kwanini_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "lini",
+    "display_text": "Lini",
+    "source_video": "S0030_Lini.mp4",
+    "sample_id": "S0030",
+    "frame_path": "data/frames/lini/lini_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "wapi",
+    "display_text": "Wapi",
+    "source_video": "S0031_Wapi.mp4",
+    "sample_id": "S0031",
+    "frame_path": "data/frames/wapi/wapi_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "nini",
+    "display_text": "Nini",
+    "source_video": "S0033_Nini.mp4",
+    "sample_id": "S0033",
+    "frame_path": "data/frames/nini/nini_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "wao",
+    "display_text": "Wao",
+    "source_video": "S0034_Wao.mp4",
+    "sample_id": "S0034",
+    "frame_path": "data/frames/wao/wao_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "nyinyi",
+    "display_text": "Nyinyi",
+    "source_video": "S0035_Nyinyi.mp4",
+    "sample_id": "S0035",
+    "frame_path": "data/frames/nyinyi/nyinyi_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "sisi",
+    "display_text": "Sisi",
+    "source_video": "S0036_Sisi.mp4",
+    "sample_id": "S0036",
+    "frame_path": "data/frames/sisi/sisi_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "yeye",
+    "display_text": "Yeye",
+    "source_video": "S0037_Yeye.mp4",
+    "sample_id": "S0037",
+    "frame_path": "data/frames/yeye/yeye_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "wewe",
+    "display_text": "Wewe",
+    "source_video": "S0038_Wewe.mp4",
+    "sample_id": "S0038",
+    "frame_path": "data/frames/wewe/wewe_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mimi",
+    "display_text": "Mimi",
+    "source_video": "S0039_Mimi.mp4",
+    "sample_id": "S0039",
+    "frame_path": "data/frames/mimi/mimi_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "babu",
+    "display_text": "Babu",
+    "source_video": "S0057_Babu.mp4",
+    "sample_id": "S0057",
+    "frame_path": "data/frames/babu/babu_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mke",
+    "display_text": "Mke",
+    "source_video": "S0058_Mke.mp4",
+    "sample_id": "S0058",
+    "frame_path": "data/frames/mke/mke_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mume",
+    "display_text": "Mume",
+    "source_video": "S0059_Mume.mp4",
+    "sample_id": "S0059",
+    "frame_path": "data/frames/mume/mume_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mtoto",
+    "display_text": "Mtoto",
+    "source_video": "S0060_Mtoto.mp4",
+    "sample_id": "S0060",
+    "frame_path": "data/frames/mtoto/mtoto_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "rafiki",
+    "display_text": "Rafiki",
+    "source_video": "S0061_Rafiki.mp4",
+    "sample_id": "S0061",
+    "frame_path": "data/frames/rafiki/rafiki_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mwanafunzi",
+    "display_text": "Mwanafunzi",
+    "source_video": "S0062_Mwanafunzi.mp4",
+    "sample_id": "S0062",
+    "frame_path": "data/frames/mwanafunzi/mwanafunzi_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mwalimu",
+    "display_text": "Mwalimu",
+    "source_video": "S0063_Mwalimu.mp4",
+    "sample_id": "S0063",
+    "frame_path": "data/frames/mwalimu/mwalimu_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "daktari",
+    "display_text": "Daktari",
+    "source_video": "S0064_Daktari.mp4",
+    "sample_id": "S0064",
+    "frame_path": "data/frames/daktari/daktari_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "muuguzi",
+    "display_text": "Muuguzi",
+    "source_video": "S0065_Muuguzi.mp4",
+    "sample_id": "S0065",
+    "frame_path": "data/frames/muuguzi/muuguzi_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "dereva",
+    "display_text": "Dereva",
+    "source_video": "S0066_Dereva.mp4",
+    "sample_id": "S0066",
+    "frame_path": "data/frames/dereva/dereva_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "polisi",
+    "display_text": "Polisi",
+    "source_video": "S0067_Polisi.mp4",
+    "sample_id": "S0067",
+    "frame_path": "data/frames/polisi/polisi_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mkuu",
+    "display_text": "Mkuu",
+    "source_video": "S0068_Mkuu.mp4",
+    "sample_id": "S0068",
+    "frame_path": "data/frames/mkuu/mkuu_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mfanyakazi",
+    "display_text": "Mfanyakazi",
+    "source_video": "S0069_Mfanyakazi.mp4",
+    "sample_id": "S0069",
+    "frame_path": "data/frames/mfanyakazi/mfanyakazi_11.jpg",
+    "order": 11,
+    "split": "test"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_00.jpg",
+    "order": 0,
+    "split": "train"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_01.jpg",
+    "order": 1,
+    "split": "train"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_02.jpg",
+    "order": 2,
+    "split": "train"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_03.jpg",
+    "order": 3,
+    "split": "train"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_04.jpg",
+    "order": 4,
+    "split": "train"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_05.jpg",
+    "order": 5,
+    "split": "train"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_06.jpg",
+    "order": 6,
+    "split": "train"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_07.jpg",
+    "order": 7,
+    "split": "val"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_08.jpg",
+    "order": 8,
+    "split": "val"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_09.jpg",
+    "order": 9,
+    "split": "test"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_10.jpg",
+    "order": 10,
+    "split": "test"
+  },
+  {
+    "token": "mgeni",
+    "display_text": "Mgeni",
+    "source_video": "S0070_Mgeni.mp4",
+    "sample_id": "S0070",
+    "frame_path": "data/frames/mgeni/mgeni_11.jpg",
+    "order": 11,
+    "split": "test"
+  }
+]

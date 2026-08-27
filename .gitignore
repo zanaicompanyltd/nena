@@ -12,3 +12,8 @@ app/.dart_tool/
 
 # IDE
 .idea/
+
+# ML models / training artifacts
+models/sign/*/
+backend/sign/venv/
+benchmark_*.json
