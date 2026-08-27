@@ -1,0 +1,14 @@
+# Build artifacts / logs
+*.log
+__pycache__/
+*.pyc
+
+# Archives (don't commit zips)
+*.zip
+
+# Flutter build output
+app/build/
+app/.dart_tool/
+
+# IDE
+.idea/
