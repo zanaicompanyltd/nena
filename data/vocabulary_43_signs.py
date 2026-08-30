@@ -114,6 +114,156 @@ VOCABULARY = [
         "reference_img": None,
     },
 
+    # ── Action verbs (S0017-S0024) ────────────────────────────────────────
+    {
+        # kufanya_kazi.mp4 — right flat hand chops down onto the open left
+        # palm repeatedly, then both hands close into fists and make a
+        # rhythmic pumping/working motion in front of the chest
+        "id": "kufanya_kazi",
+        "swahili_text": "Kufanya kazi",
+        "description": "A person chopping the right flat hand down onto the open left palm, then closing both hands into fists and making a repeated rhythmic pumping motion in front of the chest, meaning to work",
+        "reference_img": None,
+    },
+    {
+        # usafiri.mp4 — right hand fingers pinched together near shoulder
+        # height, arm extends and swings forward and to the side in a
+        # smooth gliding motion, resembling a vehicle moving
+        "id": "usafiri",
+        "swahili_text": "Usafiri",
+        "description": "A person holding the right hand with fingers pinched together near shoulder height then extending the arm forward and to the side in a smooth gliding motion resembling a moving vehicle, meaning transport or travel",
+        "reference_img": None,
+    },
+    {
+        # kucheza.mp4 — both hands start clasped at waist, then open and
+        # move outward and down alternately at the sides in a loose
+        # swinging, playful bouncing motion
+        "id": "kucheza",
+        "swahili_text": "Kucheza",
+        "description": "A person starting with both hands clasped at the waist then opening them and swinging them outward and downward alternately at the sides in a loose playful bouncing motion, meaning to play",
+        "reference_img": None,
+    },
+    {
+        # kuimba.mp4 — right hand rises from chest to near the mouth with
+        # fingers loosely open, opening and closing rhythmically in front
+        # of the mouth as if the words are flowing out, mouth visibly
+        # moving
+        "id": "kuimba",
+        "swahili_text": "Kuimba",
+        "description": "A person raising the right hand from the chest to near the mouth with fingers loosely open, opening and closing the fingers rhythmically in front of the mouth as if words are flowing out while mouthing the words, meaning to sing",
+        "reference_img": None,
+    },
+    {
+        # kuona.mp4 — right index finger extends upward near the eye,
+        # then the hand moves outward and forward away from the face,
+        # finger leading the motion
+        "id": "kuona",
+        "swahili_text": "Kuona",
+        "description": "A person raising the right index finger near the eye then moving the hand outward and forward away from the face with the finger leading the motion, meaning to see",
+        "reference_img": None,
+    },
+    {
+        # kusikia.mp4 — right index finger touches near the ear, then the
+        # hand extends outward and forward, pointing away from the ear
+        "id": "kusikia",
+        "swahili_text": "Kusikia",
+        "description": "A person touching the right index finger near the ear then extending the hand outward and forward, pointing away from the ear, meaning to hear",
+        "reference_img": None,
+    },
+    {
+        # kununua.mp4 — right hand starts low with fingers together
+        # pointing down, then rotates and lifts as if placing something
+        # into the open left palm, a giving/exchanging motion
+        "id": "kununua",
+        "swahili_text": "Kununua",
+        "description": "A person starting with the right hand low and fingers together pointing down, then rotating and lifting the hand as if placing something into the open left palm in an exchanging motion, meaning to buy",
+        "reference_img": None,
+    },
+    {
+        # kuuza.mp4 — both hands held in front with fingers loosely open
+        # and curled, palms up, making a small back-and-forth offering
+        # motion as if presenting goods
+        "id": "kuuza",
+        "swahili_text": "Kuuza",
+        "description": "A person holding both hands in front of the body with fingers loosely open and palms facing upward, making a small repeated back-and-forth offering motion as if presenting goods, meaning to sell",
+        "reference_img": None,
+    },
+ 
+    # ── More action verbs (S0040-S0043) ───────────────────────────────────
+    {
+        # kupenda.mp4 — right flat hand crosses and presses against the
+        # chest over the heart, held there briefly with a gentle circular
+        # or pressing motion
+        "id": "kupenda",
+        "swahili_text": "Kupenda",
+        "description": "A person crossing the right flat hand over the chest and pressing it against the heart, holding it there briefly with a gentle pressing motion, meaning to love",
+        "reference_img": None,
+    },
+    {
+        # kusaidia.mp4 — both hands come together at chest height, palms
+        # up and cupped together as if lifting or offering support to
+        # something resting on them
+        "id": "kusaidia",
+        "swahili_text": "Kusaidia",
+        "description": "A person bringing both hands together at chest height with palms facing upward and cupped together, lifting them slightly as if offering support to something resting on them, meaning to help",
+        "reference_img": None,
+    },
+    {
+        # kujifunza.mp4 — right hand starts as a closed fist near the
+        # shoulder, then fingers open and spread, then close again,
+        # repeated opening and closing near the head, taking-in gesture
+        "id": "kujifunza",
+        "swahili_text": "Kujifunza",
+        "description": "A person holding the right hand as a closed fist near the shoulder then repeatedly opening the fingers wide and closing them again near the head in a taking-in gesture, meaning to learn",
+        "reference_img": None,
+    },
+ 
+    # ── Extended family (S0044-S0048) ─────────────────────────────────────
+    {
+        # dada.mp4 — right index finger raised, touching or pointing near
+        # the cheek/jaw area, held steady with a slight downward stroke
+        "id": "dada",
+        "swahili_text": "Dada",
+        "description": "A person raising the right index finger and touching it near the cheek or jawline with a slight downward stroke, held steady near the lower face, meaning sister",
+        "reference_img": None,
+    },
+    {
+        # kaka.mp4 — right index finger raised, touching or tapping near
+        # the chin/mouth area repeatedly, similar to dada but positioned
+        # closer to the chin/mouth
+        "id": "kaka",
+        "swahili_text": "Kaka",
+        "description": "A person raising the right index finger and tapping it repeatedly near the chin or mouth area, meaning brother",
+        "reference_img": None,
+    },
+    {
+        # mjomba.mp4 — right hand starts near the jaw/cheek then the
+        # index and middle fingers extend and touch near the temple or
+        # side of the head, held briefly, hand lowers with a loose curl
+        "id": "mjomba",
+        "swahili_text": "Mjomba",
+        "description": "A person starting with the right hand near the jaw then extending the index and middle fingers to touch near the temple or side of the head, holding briefly before lowering the hand, meaning uncle",
+        "reference_img": None,
+    },
+    {
+        # shangazi.mp4 — right flat hand starts near the chin/cheek then
+        # sweeps down and across the chest in a smooth diagonal motion,
+        # ending with the hand extended to the side, similar motion
+        # pattern to mke but starting higher near the face
+        "id": "shangazi",
+        "swahili_text": "Shangazi",
+        "description": "A person starting with the right flat hand near the chin or cheek then sweeping it down and across the chest in a smooth diagonal motion, ending with the hand extended to the side, meaning aunt",
+        "reference_img": None,
+    },
+    {
+        # bibi.mp4 — body leans forward with a slight bow, right hand
+        # gesturing loosely near the waist/hip, bent posture suggesting
+        # an elderly or respectful stance
+        "id": "bibi",
+        "swahili_text": "Bibi",
+        "description": "A person leaning the body forward in a slight bow with the right hand gesturing loosely near the waist or hip, the bent posture suggesting an elderly figure, meaning grandmother",
+        "reference_img": None,
+    },
+
     # ── Family members (S0025-S0027, S0057-S0060) ────────────────────────
     {
         # mama.mp4 — right index finger raised near the chin/cheek,
@@ -139,7 +289,7 @@ VOCABULARY = [
         "swahili_text": "Familia",
         "description": "A person holding both hands clasped together at chest height in a circular shape, briefly lifting one hand with fingers spread open before bringing the hands back together, meaning family",
         "reference_img": None,
-    }, 
+    },
     {
         # S0057_Babu.mp4 — RE-CHECKED with full frame sequence
         # Right hand starts near chest/waist with fingers moving,
